@@ -24,7 +24,10 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [https://github.com/Meridiaan-College/Fike/blob/gh-pages/program%203.png](url) and 
-![program 3]("program 3.png")
+
+![program 3](program 3.png)
+
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
