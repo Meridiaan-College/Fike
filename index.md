@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 [https://github.com/Meridiaan-College/Fike/blob/gh-pages/program%203.png](url) and 
 
-![program 3](program 3.png)
+![program 3](program3.png)
 
 
 ```
