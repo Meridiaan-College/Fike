@@ -1,3 +1,8 @@
+![Fike.jpeg](Fike.jpeg)
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Meridiaan-College/Fike/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
@@ -31,7 +36,6 @@ Syntax highlighted code block
 
 ![program 3](program3.png)
 
-![Fike.jpeg](Fike.jpeg)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
