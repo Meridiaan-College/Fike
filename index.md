@@ -33,12 +33,16 @@ Syntax highlighted code block
 ```
 
 ![Schets 1.jpeg](Schets 1.jpeg)
+### De eerste schets
 
 ![Schets 2.jpeg](Schets 2.jpeg)
+### De tweede schets
 
 ![program1.png](program1.png)
+### Het eerste programma
 
 ![program 3](program3.png)
+### Het tweede programma
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
