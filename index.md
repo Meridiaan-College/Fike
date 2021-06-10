@@ -34,7 +34,7 @@ Syntax highlighted code block
 
 ![Schets 1.jpeg](Schets 1.jpeg)
 
-![Schets 2.jpeg](Schets 2.jpeg)
+
 
 ![program 3](program3.png)
 
