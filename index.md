@@ -31,6 +31,8 @@ Syntax highlighted code block
 
 ![program 3](program3.png)
 
+![Fike.jpeg](Fike.jpeg)
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
