@@ -45,7 +45,7 @@ Syntax highlighted code block
 
 
 ![program 3](program3.png)
-### Het tweede programma
+### Het derde programma
 
 
 
