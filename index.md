@@ -1,4 +1,4 @@
-![Fike.jpeg](Fike.jpeg)
+![Fike.jpeg](Fike.jpeg | width=100)
 
 
 
