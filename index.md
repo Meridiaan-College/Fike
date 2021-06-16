@@ -1,4 +1,4 @@
-![Fike.jpeg](Fike.jpeg)
+![Fike.jpeg](Fike.jpeg){:height="50%" width="50%"}
 
 
 
