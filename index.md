@@ -17,7 +17,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ### De eerste schets
 
 
-![Schets 2.jpeg](Schets%202.jpeg)
+![Schets2.jpeg](Schets2.jpeg)
 ### De tweede schets
 
 
