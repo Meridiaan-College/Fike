@@ -6,10 +6,6 @@
 
 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 
 
 ![Schets 1.jpeg](Schets%201.jpeg)
