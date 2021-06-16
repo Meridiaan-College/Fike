@@ -32,11 +32,11 @@ Syntax highlighted code block
 
 ```
 
-![Schets 1.jpeg](Schets 1.jpeg)
+![Schets 1.jpeg](Schets%201.jpeg)
 ### De eerste schets
 
 
-![Schets 2.jpeg](Schets 2.jpeg)
+![Schets 2.jpeg](Schets%202.jpeg)
 ### De tweede schets
 
 
