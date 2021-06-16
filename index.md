@@ -10,7 +10,7 @@ Heb je ook wel eens dat je je fiets niet kan vinden in die menigte van fietsen? 
 
 
 
-![Schets 1.jpeg](Schets%201.jpeg)
+###![Schets 1.jpeg](Schets%201.jpeg)
 ### De eerste schets
 
 
