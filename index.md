@@ -10,29 +10,22 @@ Heb je ook wel eens dat je je fiets niet kan vinden in die menigte van fietsen? 
 
 
 
-![Schets 1.jpeg](Schets%201.jpeg)
 ### De eerste schets
+![Schets 1.jpeg](Schets%201.jpeg)
 
 
-![Schets2.jpeg](Schets2.jpeg)
 ### De tweede schets
+![Schets2.jpeg](Schets2.jpeg)
 
 
-![program1.png](program1.png)
 ### Het eerste programma
+![program1.png](program1.png)
 
 
-![program 3](program3.png)
 ### Het derde programma
+![program 3](program3.png)
 
 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Meridiaan-College/Fike/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
