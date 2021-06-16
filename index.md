@@ -1,7 +1,6 @@
 ![Fike.jpeg](Fike.jpeg)
 
 
-
 # Fike, de vinder van je fiets!
 
 
