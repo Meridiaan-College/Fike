@@ -24,7 +24,7 @@ Dus, wil je nooit meer je fiets kwijtraken? Koop Fike en vind je fiets!
 
 ### App schets
 ![fike%20app.drawio](fike%20app.drawio)
-
+https://app.diagrams.net/#HGroepje-2%2Ffind%2Fmain%2FO%26O.drawio
 
 ### Het eerste programma
 ![program1.png](program1.png)
