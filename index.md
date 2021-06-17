@@ -7,7 +7,8 @@
 # Fike, de vinder van je fiets!
 Heb je ook wel eens dat je je fiets niet kan vinden in die menigte van fietsen? Nou, dan hebben wij de oplossing voor jou! Met Fike kan je overal je fiets vinden met een gratis app op je telefoon! Deze ondersteund naast een gps met kaart ook nog een systeem die aanwijst waar en hoever je fiets is! Zo je kan je deze in elke plek vinden. De tracker is klein en compact en kan zo in het frame van je fiets verstopt worden, waardoor dieven die er niet af kunnen halen!
 
-
+## Ons logo
+![fikelogo
 
 
 ### De eerste schets
