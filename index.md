@@ -10,7 +10,7 @@ Heb je ook wel eens dat je je fiets niet kan vinden in die menigte van fietsen? 
 
 ![fikelogo.png](fikelogo.png)
 
-Fike komt in alle gewenste kleuren en is zeer goedkoop voor een tracker.
+Fike komt in alle gewenste kleuren en is zeer goedkoop.
 
 ![vinder.png](vinder.png)
 
